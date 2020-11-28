@@ -5,3 +5,23 @@
 </h1>
 
 #### A guide covering Haskell scripting language including the applications, libraries and tools that will make you a better and more efficient Haskell developer.
+
+## Resources
+
+[Haskell](https://www.haskell.org/) is an advanced purely-functional programming language. 
+
+[Haskell Documentation](https://www.haskell.org/documentation/)
+
+[Haskell Community](https://www.haskell.org/community/)
+
+[Learning Haskell on HaskellWiki](https://wiki.haskell.org/Learning_Haskell)
+
+[Haskell Development Libraries and Tools](https://wiki.haskell.org/Development_Libraries_and_Tools)
+
+[Learning Haskell Programming on Udemy](https://www.udemy.com/course/learning-haskell-programming/)
+
+[Introduction to Functional Programming with Haskell on edX](https://www.edx.org/course/introduction-to-functional-programming)
+
+[Haskell Fundamentals course on Pluralsight](https://www.pluralsight.com/courses/haskell-fundamentals-part1)
+
+[Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell)
