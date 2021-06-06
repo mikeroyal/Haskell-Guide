@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
  <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/120939047-c3774880-c6ca-11eb-9445-1b89d2a2d6d0.png">
   <br />
 </p>
 
@@ -34,6 +34,8 @@
 [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell)
 
 # Haskell Tools and Frameworks
+
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
 [Haskell Dockerfile Linter](https://github.com/hadolint/hadolint) is a smarter Dockerfile linter that helps you build [best practice](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices) Docker images.
 
