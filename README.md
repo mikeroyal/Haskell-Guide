@@ -43,6 +43,8 @@
 
 [Haskell Dockerfile Linter](https://github.com/hadolint/hadolint) is a smarter Dockerfile linter that helps you build [best practice](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices) Docker images.
 
+[GHC](https://www.haskell.org/ghc/) is a state-of-the-art, open source, compiler and interactive environment for the functional language Haskell.
+
 [ShellCheck](https://www.shellcheck.net/) is a shell script static analysis tool.
 
 [Haskelly](https://github.com/haskelly-dev/Haskelly) is a VS Code extension that provides complete support for casual and expert Haskell development.
@@ -65,14 +67,15 @@
 
 [HUnit](https://hackage.haskell.org/package/HUnit-1.2.2.1) is a tool for unit testing framework similar to JUnit.
 
-[microspec](https://hackage.haskell.org/package/microspec) is  a tiny QuickCheck test library with minimal dependencies.
+[Microspec](https://hackage.haskell.org/package/microspec) is  a tiny QuickCheck test library with minimal dependencies.
 
 [Hspec](https://hspec.github.io/) is a testing framework similar to RSpec with support for QuickCheck and HUnit.
 
 [The Haskell Test Framework (HTF)](https://hackage.haskell.org/package/HTF) is a tool that integrates both Hunit and QuickCheck.
 
 [Threadscope](https://code.haskell.org/ThreadScope/) is a new feature on the horizon which allows for benchmarking and visualization of multithreaded performance.
-ghc profiling tools - a powerful suite of profiling tools exist within GHC itself.
+
+[GHC profiling tools](https://downloads.haskell.org/~ghc/8.10.3/docs/html/users_guide/profiling.html) is a powerful suite of profiling tools exist within [GHC](https://www.haskell.org/ghc/) itself.
 
 [Haddock](https://www.haskell.org/haddock/) is a documentation system for Haskell.
 
